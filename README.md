@@ -33,3 +33,63 @@ Zur Evaluation genügt Javascript als Plattform, da darüber alle nötigen Analy
 hör ich läuten, wenn bewußt, was Klänge deuten. Erkennt vor Augen Ihr - im Spiegel verbal verschmutzer Laache, gerade recht in Ursprünglichkeit der Schönheit diese Sprache. Steckt im Schelme manchen Wortes, auch ein Licht verschlossnen Ortes. Mit jedem Wort und jeder Zeile, kommt herbei in Windeseile, der Augenblick den Ihr ersehnt, nicht mehr lang, schon im Jahreszehnt. In jedem kleinen Augenblick, macht es mehr und mehr still klick. Erklingt die große Sinfonie der totalen Harmonie.
 
 Empfehlung: http://www.bundesarchiv.de/digitalisate/WR-Berlin_Ton/mp3/
+
+Da der Chef in diesem Jahr seinen 130'ten Geburtstag feiert, gibts zum Malerfrühstück für unsere Mitmach-Gesellschaft hier die wichtigsten Lines:
+
+Dazu benötigt Ihr einen Hausfrauen-PC oder eine Klappstulle mit lecker Linux. Traditionell verwenden wir beispielhaft Debian.
+
+
+Es kann sein, dass Ihr auf Jessie zurückgreifen müsst, weil die Paketbetreuer es nicht auf die Kette kriegen, anständig zu arbeiten!
+Dazu ist es vorteilhaft in /etc/apt/ die Datei "sources.list" aufzukoschern...
+
+# Beginning of /etc/apt/sources.list
+#------------------------------------------------------------------------------#
+#                   OFFICIAL DEBIAN REPOS                    
+#------------------------------------------------------------------------------#
+
+###### Debian Main Repos
+
+deb http://deb.debian.org/debian/ stretch main non-free contrib
+deb-src http://deb.debian.org/debian/ stretch main non-free contrib
+
+deb http://security.debian.org/debian-security stretch/updates main contrib non-free
+deb-src http://security.debian.org/debian-security stretch/updates main contrib non-free
+
+deb http://deb.debian.org/debian/ stretch-updates main contrib non-free
+deb-src http://deb.debian.org/debian/ stretch-updates main contrib non-free
+
+deb http://deb.debian.org/debian/ oldstable main contrib non-free
+deb-src http://deb.debian.org/debian/ oldstable main contrib non-free
+
+deb http://deb.debian.org/debian/ oldstable-updates main contrib non-free
+deb-src http://deb.debian.org/debian/ oldstable-updates main contrib non-free
+
+deb http://deb.debian.org/debian-security oldstable/updates main
+deb-src http://deb.debian.org/debian-security oldstable/updates main
+
+deb http://ftp.debian.org/debian jessie-backports main
+deb-src http://ftp.debian.org/debian jessie-backports main
+
+deb http://deb.debian.org/debian/ buster main contrib non-free
+deb-src http://deb.debian.org/debian/ buster main contrib non-free
+
+deb http://deb.debian.org/debian/ buster-updates main contrib non-free
+deb-src http://deb.debian.org/debian/ buster-updates main contrib non-free
+
+deb http://deb.debian.org/debian-security buster/updates main
+deb-src http://deb.debian.org/debian-security buster/updates main
+
+deb http://ftp.debian.org/debian buster-backports main
+deb-src http://ftp.debian.org/debian buster-backports main
+
+deb http://deb.debian.org/debian/ jessie main contrib non-free
+deb-src http://deb.debian.org/debian/ jessie main contrib non-free
+
+deb http://deb.debian.org/debian/ jessie-updates main contrib non-free
+deb-src http://deb.debian.org/debian/ jessie-updates main contrib non-free
+
+deb http://deb.debian.org/debian-security jessie/updates main
+deb-src http://deb.debian.org/debian-security jessie/updates main
+# End of /etc/apt/sources.list
+
+Führerstand://Reichskanzlei:~# apt clean && apt update && apt install libav-tools pocketsphinx
