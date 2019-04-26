@@ -93,3 +93,26 @@ deb-src http://deb.debian.org/debian-security jessie/updates main
 # End of /etc/apt/sources.list
 
 Führerstand://Reichskanzlei:~# apt clean && apt update && apt install libav-tools pocketsphinx
+
+# Rand(gruppen)Notiz
+
+Nicht immer ist der Einsatz künstlicher Intelligenz vorteilhaft. Daher ist es wichtig, von Zeit zu Zeit auch mal das eigene Gehirn zu benützen. Die Entwicklung und Umsetzung der verschiedenen Konzepte zur Aufgabenlösung trägt mitunter sonderbare Früchte, die ich nicht unerwähnt lassen möchte. 
+
+# Am Beispiel:
+
+Microsoft verwendete bereits im Internet-Entdecker 1.0 unter Windows 95 gewisses "Alexa-Bit". Das neueste Update für Windoof 10 scheitert ausgerechnet am USB-Stift und ermöglicht die Erzwingung von Zwangsupdates über nicht legitime Seitenkanäle. Desweiteren sind die Kapazitäten nicht mehr unter der Hoheit des Nutzers, obgleich das Gegenteil geheuchelt wird. 
+
+Apple's stiller Lauschangriff zur Datenbeschaffung für Siri kann man ebenfalls "recherchieren". 
+
+Facebook hat es mit Mickeysofts Kortana auf die Spitze getrieben und schaut mal, auf welchen Geräten welcher Hersteller mit Google's Android diese Maleware "vorinstalliert" ist. 
+
+Google sammelt auch fleissig und lädt sich überall gern selbst ein. Auch hier ist das Ergebnis der Entwicklung mehr als nur bedenklich.
+
+Über all diesen Totalausfällen steht der Watson von IBM. Und der steht seit den vierziger Jahren des letzten Jahrhunderts. Was der so kann, kann man in den Protokollen der Sprachanalyse erfahren. Dabei geht es nicht darum, was man gerne glauben möchte, sondern das, was da war und da ist.
+
+In der Entwicklung ist auch zu berücksichtigen, dass die Modelle miteinander "konkurrieren", was bei emotionslosen Varianten der Moderne zu Krieg führt. Der Einsatz solcher Technologie erscheint oft verlockend, doch er ist schnelllebiger dennje. Es hat in der Entwicklung der Gesellschaft zu einer Irreführung sondergleichen geführt, weil die Verkaufsberater mit gelbem Schein sich blenden liessen vom Glauben an "Ihre Gesetze" ohne Geltungsbereich.
+
+Für Diejenigen unter Euch, die sich für Geschichte, Prozesse und Zusammenhänge interessieren, können auf diesem Wege Einblick nehmen, um zu verstehen, was stattgefunden hat. Das ist gut gegen emotionalen Kontrollverlust und was Go(t)t eigentlich ist, offenbart die KI auch, so wie sie sich selbst enttarnt. Im Prinzip ist es ein Einblick in die Gedanken- und Entscheidungswelt, die Euch in der Entwicklung massgeblich prägte. 
+
+Es ist also nicht notwendig "meine Meinung" in den Mittelpunkt der Betrachtung zu stellen. Jedwedes kleingeistige, politische rückständige Gebahren wird einfach so an den Fakten abperlen.
+
